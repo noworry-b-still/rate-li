@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="rate-li logo" width="600" style="background:#1a1a2e; border-radius:12px; padding:16px"/>
+  <img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="120" alt="Ferris the Rustacean"/>
 </p>
 
-# rate-li
-
-A production-grade **distributed rate limiting core engine** written in Rust. Built with a clean trait-based architecture, it supports three battle-tested algorithms, two storage backends, and a full resilience layer — designed to slot into any Rust service as a library.
+<h1 align="center">rate-li</h1>
+<p align="center">
+A production-grade distributed rate limiting core engine written in Rust. Built with a clean trait-based architecture, it supports three battle-tested algorithms, two storage backends, and a full resilience layer — designed to slot into any Rust service as a library.
+</p>
 
 ---
 
